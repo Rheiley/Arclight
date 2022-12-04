@@ -8,4 +8,7 @@ Features:
 - Google search anything
 - Tells you information about a person on wikipedia
 
-#Currently Working on:
+Currently Working on:
+- Webscraping Google snippets
+- Being able to return temperature for a specified location
+- Spotify integration
