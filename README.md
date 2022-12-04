@@ -12,4 +12,4 @@ Currently Working on:
 - Webscraping Google snippets
 - Being able to return temperature for a specified location
 - Spotify integration
-- Making it run in the background
+- ~~Making it run in the background~~ Finished 12/04/2022
