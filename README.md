@@ -12,3 +12,4 @@ Currently Working on:
 - Webscraping Google snippets
 - Being able to return temperature for a specified location
 - Spotify integration
+- Making it run in the background
