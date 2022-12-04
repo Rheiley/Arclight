@@ -13,3 +13,4 @@ Currently Working on:
 - Being able to return temperature for a specified location
 - Spotify integration
 - ~~Making it run in the background~~ Finished 12/04/2022
+- Only allowing 1 instance to be ran
