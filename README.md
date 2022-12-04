@@ -1,5 +1,5 @@
 # Arclight
-Arclight, a virtual assistant that can perform basic tasks.
+A virtual assistant that can perform basic tasks.
 
 Features:
 - Searches songs on Youtube with the keyword "play"
