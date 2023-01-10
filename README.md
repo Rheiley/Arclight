@@ -15,5 +15,4 @@ Currently Working on:
 - ~~Making it run in the background~~ Finished 12/04/2022
 - Only allowing 1 instance to be ran
 
-# Download .exe:
-https://www.mediafire.com/file/e0hkblmn94lil5b/Arclight.exe/file
+
